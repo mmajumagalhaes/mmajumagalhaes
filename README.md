@@ -1,7 +1,6 @@
 ## Olá, me chamo Maria Júlia! 👋
 - 🌠 Sou estudante de SI na Cesar School.
 - 🌱 Estou aprendendo Python.
-- ✨ Tenho interesse em aprender mais sobre front-end.
 - 👩🏻‍💻 ela/dela.
 ##
 
