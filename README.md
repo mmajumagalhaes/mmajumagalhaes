@@ -1,6 +1,6 @@
 ## Olá, me chamo Maria Júlia! 👋
 - 🌠 Sou estudante de SI na Cesar School.
-- 🌱 Estou aprendendo Python.
+- 🌱 Estou aprendendo C.
 - 👩🏻‍💻 ela/dela.
 ##
 
